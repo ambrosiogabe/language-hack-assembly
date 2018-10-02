@@ -17,7 +17,7 @@ patterns: [ # An array of individual pattern declarations.
     name: 'keyword.control.hack'
   },
   {
-    match: '@([a-z]+[A-Z]*)+'
+    match: '@([a-z]+[A-Z]*[0-9]*)+'
     name: 'variable.other.hack'
   },
   {
@@ -25,7 +25,7 @@ patterns: [ # An array of individual pattern declarations.
     name: 'entity.name.type.hack'
   },
   {
-    match: '(@[A-Z]+)'
+    match: '@([A-Z]+[0-9])'
     name: 'variable.hack'
   },
   {
