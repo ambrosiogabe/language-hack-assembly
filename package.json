@@ -1,6 +1,6 @@
 {
   "name": "language-hack-assembly",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "This is a grammar for the language Hack Assembly",
   "repository": "https://github.com/ambrosiogabe/language-hack-assembly",
   "license": "MIT",
